@@ -131,7 +131,10 @@ tensorboard --logdir logs
   <img width="1018" height="497" alt="image" src="https://github.com/user-attachments/assets/5435f8a9-6667-41a8-8d8b-2c38ac225333" />
   <img width="1025" height="544" alt="image" src="https://github.com/user-attachments/assets/6f455348-38f2-41f9-82d7-33b724f80608" />
 
-  Epoch: 0, Train Loss: 1.6828, Eval Loss: 1.6260, Train Accuracy: 0.4555, Eval Accuracy: 0.4861, LR: 0.001000
+## Training Logs
+
+```text
+Epoch: 0, Train Loss: 1.6828, Eval Loss: 1.6260, Train Accuracy: 0.4555, Eval Accuracy: 0.4861, LR: 0.001000
 Epoch: 1, Train Loss: 1.3030, Eval Loss: 1.3365, Train Accuracy: 0.6439, Eval Accuracy: 0.6335, LR: 0.001000
 Epoch: 2, Train Loss: 1.1453, Eval Loss: 1.1380, Train Accuracy: 0.7198, Eval Accuracy: 0.7218, LR: 0.001000
 Epoch: 3, Train Loss: 1.0430, Eval Loss: 1.0230, Train Accuracy: 0.7707, Eval Accuracy: 0.7826, LR: 0.001000
@@ -231,4 +234,7 @@ Epoch: 96, Train Loss: 0.5075, Eval Loss: 0.6678, Train Accuracy: 0.9997, Eval A
 Epoch: 97, Train Loss: 0.5079, Eval Loss: 0.6677, Train Accuracy: 0.9995, Eval Accuracy: 0.9343, LR: 0.000100
 Epoch: 98, Train Loss: 0.5076, Eval Loss: 0.6687, Train Accuracy: 0.9997, Eval Accuracy: 0.9345, LR: 0.000100
 Epoch: 99, Train Loss: 0.5076, Eval Loss: 0.6657, Train Accuracy: 0.9996, Eval Accuracy: 0.9348, LR: 0.000100
+...
 Best Evaluation Accuracy: 0.9369
+```
+ 
