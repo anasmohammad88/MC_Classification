@@ -103,6 +103,14 @@ pip install torch torchvision torchmetrics tensorboard matplotlib
 
 ---
 
+# Download Dataset
+
+```bash
+python -m cnn.utility
+```
+
+---
+
 # Run Training
 
 ```bash
